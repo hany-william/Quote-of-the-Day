@@ -4,7 +4,7 @@ h1
     font-weight: bold;
     font-family: Impact;
     color: red;
-    background-color: bisque;
+    background : linear-gradient(45deg, #e622e2,#2132ed) ;
     /* margin-bottom: 60px; */
 }
 
